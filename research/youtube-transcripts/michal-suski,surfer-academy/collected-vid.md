@@ -1,6 +1,6 @@
-# Matt Kenyon - How to Write SEO Content That Ranks in Google and AI Search
+# Michal Suski - How to Write SEO Content That Ranks in Google and AI Search
 
-Author / Expert: Matt Kenyon / Surfer Academy  
+Author / Expert: Michal Suski / Surfer Academy  
 Source type: YouTube transcript  
 Original URL: https://www.youtube.com/watch?v=QL_fgTOS4pI  
 Date collected: 2026-07-09  
