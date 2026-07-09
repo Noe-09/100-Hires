@@ -42,11 +42,11 @@ I avoided choosing people only because they talk about AI. I tried to pick peopl
 
 ### LinkedIn
 
-LinkedIn posts were collected manually from public profiles. For each post, I saved the link, date if available, summary, and why the post is relevant.
+LinkedIn posts were collected manually from public profiles. For each post, I saved the link, date if available, summary, raw content, research notes and why the post is relevant.
 
 ### YouTube
 
-For YouTube videos, I collected transcripts when available. I also added short notes and takeaways so the transcript is easier to use later.
+I used automation to collect transcripts where available, but expert selection and source filtering were done manually. I prioritized fewer high-signal sources over collecting a large volume of generic content.
 
 ### Other Sources
 
