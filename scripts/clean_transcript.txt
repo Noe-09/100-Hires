@@ -1,0 +1,539 @@
+[00:00] By the end of this video, you'll know how to  take any keyword and turn it into a piece of
+
+[00:04] content that actually ranks — in Google and in  AI search. This will be an over-the-shoulder,
+
+[00:11] repeatable process you can use every  single time you sit down to write.
+
+[00:16] I'm Matt Kenyon, and I've partnered with Surfer  to bring you that process, step by step. We're
+
+[00:21] going from keyword to published post. I'll show  you every decision along the way, and I'll walk
+
+[00:27] through Surfer's Content Editor as we go — so you  can see exactly how each step works in practice.
+
+[00:34] One thing before we start — this whole process
+
+[00:37] assumes you already have a target  keyword. One keyword per piece of
+
+[00:42] content. If you're writing about "how to  do keyword research," that's your keyword.
+
+[00:43] If you don't have a keyword yet, I'll  link a keyword research tutorial in
+
+[00:47] the description. Go watch that first, come  back with your keyword, and pick up here.
+
+[00:52] Let's get into it.
+
+[00:53] STEP 0: Check Search Intent
+
+[00:56] Before you open any tool, do a quick gut check. Check Search Intent
+
+[01:00] Search your keyword in Google  and look at what's ranking.
+
+[01:04] If the first page is all how-to guides, you're  writing a how-to guide. If it's all listicles,
+
+[01:10] write a listicle. If it's all product pages,
+
+[01:12] a blog post probably won't rank for  this keyword — pick a different one.
+
+[01:19] This is search intent. Google has already decided
+
+[01:22] what type of content searchers want  for your keyword. Your job isn't to
+
+[01:26] fight that — it's to match the format and  do it better than what's already there.
+
+[01:30] And by the way — if you want to analyze  search intent automatically and at scale,
+
+[01:30] Surfer’s Topical Map lets you do just  that by visualizing all of your topical
+
+[01:30] clusters and their intent from one  convenient view. But that’s a topic
+
+[01:30] for a separate video — I’ll drop a link to  learn more about that in the description.
+
+[01:30] Anyway, that gut check takes  thirty seconds. If you skip it,
+
+[01:36] everything that follows is wasted — no amount  of optimization fixes a content type mismatch.
+
+[01:43] Intent confirmed? Good. Let's get to writing. Research & Create Outline
+
+[01:46] I'm going to walk you through this using  Surfer's Content Editor. The tool matters
+
+[01:51] less than the principles — cover your  topic with authority, show first-hand
+
+[01:56] experience where you have it, match search  intent. That's true no matter what you use.
+
+[02:02] Alright — enter your target keyword.  We're targeting "how to write a case
+
+[02:10] study." Surfer will prompt you  to select your content type.
+
+[02:15] If you're not sure, you can select  SERP based and it will automatically
+
+[02:18] pull in real-time data from the  search results for that keyword.
+
+[02:22] After that, you'll get an opportunity  to add special context, instructions,
+
+[02:26] and brand knowledge. If you choose to  use Surfer AI to generate the article,
+
+[02:31] it will bake that information  into the draft itself.
+
+[02:35] This can be anything from your brand voice  guidelines, product or service details,
+
+[02:39] or non-negotiable talking points. If you sold a  service that helped people write case studies,
+
+[02:45] for example, this is where you'd drop  a short description of that service,
+
+[02:49] who it's for, and the problems it solves.
+
+[02:52] Even better, you can save this as a custom  template. So the next time you spin up an article,
+
+[02:57] your brand voice, product positioning,  and house style are already loaded.
+
+[03:02] Next, we'll enter writing mode.  And here you've got a choice:
+
+[03:06] start with an AI draft, or  write it yourself from scratch.
+
+[03:10] For this video, I'm going to walk through  the full content writing process so you
+
+[03:14] can see how every piece fits together.  But if you need speed — and a lot of
+
+[03:19] people do — Surfer's AI draft  is a genuinely strong option.
+
+[03:24] This is where the brand knowledge and context  you just added really pay off. Most AI-generated
+
+[03:30] articles read like slop because the model  has nothing to work with except the keyword.
+
+[03:36] Surfer's draft is different. It pulls  in your brand voice, your product,
+
+[03:41] your positioning — every detail you  added in the last step — and writes
+
+[03:48] an article that actually sounds  like it came from your company.
+
+[03:55] In my experience, the draft comes back  about 90% there — structured, on-topic,
+
+[04:01] and already optimized for both Google and  AI search before you've typed a single word.
+
+[04:07] You just review, tighten, and add  your personal experience on top.
+
+[04:12] One more thing worth knowing: Surfer doesn't  charge extra for AI articles anymore. No separate
+
+[04:17] credit bucket, no premium tier — if you're on a  Surfer plan, generate as many drafts as you want.
+
+[04:23] Alright — for this walkthrough,  I'm going to write it myself,
+
+[04:26] heading by heading, so you can see  the full process. Let's keep going.
+
+[04:31] My favorite part of the Content Editor's interface  is this clear step-by-step process on the
+
+[04:37] right-hand sidebar. This is like a balm for my OCD  brain. We'll just walk through these one-by-one.
+
+[04:45] STEP 1: Research & Create Outline
+
+[04:45] Starting with Step #1, Research & Create  Outline. There are three tabs here:
+
+[04:51] Competitors, Questions, and Notes.
+
+[04:54] The Competitors tab is where you spend  most of your time. It shows you the actual
+
+[04:59] outlines from the pages currently ranking  for your keyword — the headings they use,
+
+[05:04] how they structure the content, what  topics they cover. You can expand each
+
+[05:08] competitor and see exactly how  they organized their article.
+
+[05:12] Above that, Surfer generates an AI-powered  outline based on what's working across
+
+[05:17] all of these competitors. You  can hit "Insert Outline" and it
+
+[05:21] drops a complete structure into  your editor as a starting point.
+
+[05:25] Now, you can do this manually —  open each of the top ten results,
+
+[05:29] read through them, and take notes on  what they cover. That works. It just
+
+[05:34] takes much longer. The Content Editor  compresses that into a few seconds.
+
+[05:39] Either way, here's how to use competitor data.  Don't just accept any outline as-is. Treat
+
+[05:45] it as your starting point. Look at what all ten  competitors cover — that's table stakes, you need
+
+[05:51] it. Then look for gaps — topics only one or two  competitors mention, or topics none of them cover
+
+[05:59] that you know are relevant. Your outline should  be about 70% proven topics and 30% unique angles.
+
+[06:09] This is where AI earns its keep. If  no unique angles are jumping out,
+
+[06:15] I'll copy and paste the outline  into Claude and simply ask,
+
+[06:19] "If I want to write an article on 'how to write  a case study' what's missing from this outline
+
+[06:26] that could help me more thoroughly satisfy the  user's search intent? Do deep research across X,
+
+[06:34] reddit, YouTube, Facebook, LinkedIn and more  to get the freshest possible user signals."
+
+[06:40] A lot of times AI will surface things you would've  never thought of, like when my Claude Code
+
+[06:46] agent found out that the #1 pain point across  community sites is how to actually get client
+
+[06:52] permission and buy-in for case studies, which  is completely missing from my current outline.
+
+[07:00] I was also missing things like:
+
+[07:02] How to write questions that draw  out great answers from stakeholders
+
+[07:06] The power of video case studies
+
+[07:09] And how to use anonymized data when clients  don't want to be named in case studies
+
+[07:14] I added all of these as  sub-headings to my existing outline.
+
+[07:18] Another thing that sets you  apart from competitors is real,
+
+[07:21] concrete examples of whatever  it is you're talking about.
+
+[07:27] In this case, I wanted to find real case study  examples worth studying and include those in the
+
+[07:32] article, so I spun up another agent to hunt  the web for the best case studies around.
+
+[07:39] My agent surfaced the standouts. The goal
+
+[07:41] was to move the reader from theory to  real examples they could learn from.
+
+[07:50] This step used to take hours —  sometimes even days — of manual
+
+[07:55] research and massaging the outline.  With Surfer and some handy AI tools,
+
+[08:00] it takes a fraction of the time  and is more thoroughly researched. Write & Optimize
+
+[08:07] Once I'm happy with my outline,  it's time to start writing.
+
+[08:10] STEP 2: Write & Optimize
+
+[08:10] Now we're in Write & Optimize. This is where you
+
+[08:15] actually write the content — and Surfer  gives you real-time feedback as you go.
+
+[08:20] This is the point in the process where  I just go heading by heading and write
+
+[08:24] naturally. I always say that if you  spend enough time in the outline process,
+
+[08:29] the writing process should feel like  paint-by-numbers. I'll usually have
+
+[08:33] my AI agent in another window helping me  surface research, and it's off to the races.
+
+[08:38] Another thing I love about building a strong  outline is that telling myself I need to
+
+[08:43] write a 3,500-word blog post is extremely  overwhelming. It's much more psychologically
+
+[08:49] manageable to reframe it as, I'm just going  to write about Types of Case Studies. Then
+
+[08:54] How to Write a Case Study... one section at a  time, chipping away at the piece bit-by-bit.
+
+[09:01] Writing the hook — research showed that nobody  actually reads case studies. People just need
+
+[09:35] to know you have them. That's the hook.  Something like: "Nobody actually reads
+
+[09:48] case studies — but you need them anyway.  Here's how to make one worth skimming.”
+
+[09:56] Okay. I've finished my first draft. Let's look at  some of the tools we have on the right-hand side
+
+[10:01] of the screen to make this piece as optimized  as possible for humans, Google, and AI search.
+
+[10:08] First, your on-page targets. The word count,  headings, and paragraphs are all based on the
+
+[10:14] top-ranking posts. Don't think of them  as hard and fast rules, but more like a
+
+[10:19] compass pointing you in the direction of the  kind of depth Google wants for this keyword.
+
+[10:25] If you're way over, consider  trimming. If you're way under,
+
+[10:29] you're likely not covering the topic  in as much depth as users expect.
+
+[10:34] Next, you've got the Content Score — the gauge at  the top. Before I get into what the numbers mean,
+
+[10:40] it's worth understanding what  the score is actually measuring.
+
+[10:44] Here's the reality of SEO: we don't actually know  how Google's algorithm works. We write content,
+
+[10:50] it goes into a black box, and a ranked results  page comes out the other side. The only thing we
+
+[10:56] can observe is the SERP — which pages Google  decided to rank, and which ones it didn't.
+
+[11:03] So the best any of us can do is reverse-engineer.  And that's exactly what Content Score is — Surfer
+
+[11:10] analyzes the pages currently ranking for  your keyword, finds the patterns they share,
+
+[11:16] and measures your content against those  patterns. Entities, facts, word count,
+
+[11:21] structure — all pulled directly from what Google  is already rewarding. It's not an arbitrary
+
+[11:27] number. It's a measurement of how closely  your content matches what's already winning.
+
+[11:32] Surfer recently rebuilt the Content Score  in a way that makes it a lot more powerful.
+
+[11:37] You'll see three numbers now. The big one in  the middle is your overall Content Score out
+
+[11:42] of 100. On the left, your SEO score — how ready  your content is to rank in Google. On the right,
+
+[11:49] your AI Search score — how ready  your content is to get cited by LLMs.
+
+[11:54] That AI Search score is the one I'd pay the  most attention to. When someone asks ChatGPT,
+
+[12:00] Perplexity, or Google's AI Overviews a  question about your topic, those models
+
+[12:05] pull their answer from somewhere. Your AI  Search score is a direct measure of how
+
+[12:10] likely "somewhere" is you. Every point you  push that score up is a better shot at your
+
+[12:16] content being the one that feeds the AI's  answer — with your brand named inside it.
+
+[12:22] Push both scores into the green  and you've covered the whole board:
+
+[12:26] organic traffic from Google today,  and citations in AI answers tomorrow.
+
+[12:32] So how do you actually push those scores up? Two  optimization tracks sitting side-by-side in the
+
+[12:38] sidebar: Optimize for SEO, and Optimize  for AI Search. Let's walk through each.
+
+[12:45] Optimize for SEO: Entities
+
+[12:45] Under Optimize for SEO, you'll see entities. An  entity is a specific concept or term that the
+
+[12:55] top-ranking pages consistently mention.  Think of them as the vocabulary of your
+
+[13:00] topic. If the top ten results for "how to  write a case study" all mention "customer
+
+[13:05] testimonials," "ROI," and "pain points," and  your content doesn't, Google notices that gap.
+
+[13:12] You'll see a count — something like 38  out of 81. That means you've covered 38
+
+[13:18] of the 81 entities Surfer identified.  You don't need to hit all 81. But the
+
+[13:24] more relevant ones you cover naturally,  the stronger your topical coverage.
+
+[13:29] You don't want to force them in — if a  term doesn't fit your content, skip it.
+
+[13:38] But if you're missing a core concept,  that's a signal your content has a hole.
+
+[13:43] Optimize for AI Search: Facts
+
+[13:43] This is the part that didn't exist a year ago.  Under Optimize for AI Search, you'll see Facts.
+
+[13:50] These are ideas that LLMs have a history of citing  when users query terms around your topic. So if
+
+[13:58] you want to be a source for AI assistants, you  increase your odds by including these facts.
+
+[14:04] Here's what's happening behind the scenes. Surfer  pulls information from two types of sources — you
+
+[14:10] can see them labeled right here. "AI Models" and  "Web pages." It's scanning what ChatGPT, Google AI
+
+[14:17] Overviews, and Perplexity are saying about your  topic, and it's also scanning the top-ranking
+
+[14:22] web pages. Then it identifies the specific  facts that these sources consistently include.
+
+[14:29] Facts are grouped by topic. So for "how to write  a case study," we have a group called "writing
+
+[14:35] tips" with three facts underneath it — things like  "identifying your goal, including specific data,
+
+[14:40] and making the customer the protagonist."  Each one is a concrete, verifiable piece of
+
+[14:46] information that AI systems look for when  deciding whether to cite your content.
+
+[14:51] The logic is simple. When someone asks  ChatGPT "how do I write a case study,"
+
+[14:56] it pulls its answer from pages  that contain real, specific,
+
+[15:00] factual information — not pages full  of vague advice. The Facts panel tells
+
+[15:06] you exactly what to include so your content  becomes the kind of source AI wants to cite.
+
+[15:12] And if you don't want to add entities and  facts one at a time, hit Auto Optimize.
+
+[15:18] It handles both in one click — adds missing  entities naturally and inserts relevant facts,
+
+[15:24] all while preserving your voice  and writing style. In my case,
+
+[15:26] running Auto Optimize took my Content Score  from a 68 to an 89 in about ten seconds.
+
+[15:27] One thing worth calling out: if your score is  stuck even after Auto Optimize, the gap usually
+
+[15:33] isn't surface-level entities or facts — it's  coverage. You're missing a subtopic the ranking
+
+[15:40] pages all cover. Open the Competitors tab again,  look for a heading two or three of them share that
+
+[15:46] your outline skipped, and write that section.  Eight times out of ten, that fills the gap.
+
+[15:53] A few writing fundamentals while we're here:
+
+[15:55] First, lead with the answer. If  someone searches "how long does
+
+[16:03] it take to rank on Google," your  first paragraph should give them
+
+[16:08] the answer — "typically 3 to 6 months" — and  then explain the nuance. Don't bury it. The
+
+[16:15] searcher came for an answer. Give it to  them, then earn their time with depth.
+
+[16:20] Second, use short paragraphs. I'm  talking two to three sentences max.
+
+[16:29] Walls of text kill mobile readability  — and most of your traffic is mobile.
+
+[16:35] Third, use subheadings every 200-300 words.  They help readers scan and give Google and
+
+[16:43] LLMs explicit signals about what each section  covers. A good tip that SEOs have used for
+
+[16:49] decades is to phrase your headings as the  questions users are actually asking. Lots
+
+[16:54] of brands still do this and it works like  a charm for both traditional and AI SEO.
+
+[17:00] Fourth, prioritize clarity over cleverness. Aim to  write at a sixth-grade reading level, definitely
+
+[17:08] no more than an 8th grade level. Write so nobody  has to re-read a sentence to understand it.
+
+[17:14] Okay. I've added in the remaining  facts, naturally inserted a good
+
+[17:19] amount of SEO entities, and gotten myself a  respectable score. But we're not done yet.
+
+[17:25] STEP 3: Internal Links
+
+[17:27] Internal linking is one of the  highest-leverage things you can Internal Links
+
+[17:31] do for a new post — and it takes five minutes.
+
+[17:34] When we say internal links,  we're specifically referring to
+
+[17:37] contextual links from your existing content  (usually the body copy) to your new post,
+
+[17:43] and from your new post back  to related existing content.
+
+[17:47] You know, the things all over the average
+
+[17:49] Wikipedia page leading to  every other Wikipedia page.
+
+[17:53] These help Google discover your page faster  and build topical context. When you link
+
+[17:58] from your "keyword research guide" to this  new "case study" post, Google understands
+
+[18:03] these topics are related and that your site  comprehensively covers content marketing.
+
+[18:08] Connect your Google Search Console, and  Surfer scans your existing content to
+
+[18:13] find relevant internal linking opportunities.  It uses your actual site data combined with
+
+[18:18] semantic analysis to suggest links that  make sense — not just keyword matches.
+
+[18:24] Thanks to Surfer, you can insert all  your relevant contextual links without
+
+[18:28] even leaving the content editor. This  used to be a manual process of searching
+
+[18:33] site:yourdomain.com and finding relevant pages  one at a time. Now, it's done in a single click.
+
+[18:41] I'll usually aim to add about 3-5  internal links within this new post,
+
+[18:46] pointing to my existing related content.  Then go back to 3-5 existing posts and add
+
+[18:53] a link from each of them to this new page.  That second part is easy to overlook — your
+
+[19:00] new page needs incoming links from your  own site, not just outgoing ones. Those
+
+[19:05] incoming links tell Google this page matters  and where it fits in your content ecosystem.
+
+[19:12] With our internal links dialed in, we're  ready to move into Step 4: pre-publish review.
+
+[19:16] STEP 4: Pre-Publish Review
+
+[19:18] This is your quality gate — the final polish  before publishing. At this point, I'll re-read Pre-Publish Review
+
+[19:24] the piece (usually out loud) to catch any awkward  phrasing, throat-clearing, or unnecessary hedging.
+
+[20:18] I'll also ask myself: how can  this piece be even better? For me,
+
+[20:23] this means including real screenshots of case  studies, potentially sourcing some expert quotes
+
+[20:29] from brands who are doing case studies well,  and, if I have access to design resources,
+
+[20:34] building custom visual assets for the piece.  Think infographics, diagrams, stuff like that.
+
+[20:40] I'll also usually do a quick scan  on YouTube to see if there are any
+
+[20:44] relevant videos I can embed into the piece.  And no, it doesn't have to be videos from me.
+
+[20:50] Any videos help break up the copy and  increase engagement with the page.
+
+[20:55] Once I'm done here, I'll use Surfer's three  quality control tools for pre-publishing.
+
+[21:00] First, the readability Score. This tells  you what education level a reader needs
+
+[21:05] to understand your content. You'll see a number  and a plain-English description — something like
+
+[21:10] "Your text can be read by people with at least  a college level education." For most content,
+
+[21:15] you want this accessible to a  broad audience. If the score
+
+[21:20] is low, simplify your sentence  structure and cut the jargon.
+
+[21:24] Next, a plagiarism Check. Hit "Run Plagiarism  Checker" and it compares your content against
+
+[21:27] what's already indexed. Original  content ranks. Duplicate content
+
+[21:32] doesn't. If you used AI to help draft,  this is especially important — AI tools
+
+[21:39] sometimes produce passages that closely  mirror existing published content.
+
+[21:44] Finally, AI Readability. Hit "Analyze  Content" and Surfer scans your article
+
+[21:49] against the formatting that AI systems prefer  when deciding what to cite. Clear structure,
+
+[21:55] defined terms, factual claims  with context. Think of it as:
+
+[21:59] would an AI model be able to pull a  clean, accurate answer from your page?
+
+[22:04] Think of Pre-Publish Review  as your pre-flight checklist:
+
+[22:07] readable for humans and AI, no plagiarism  issues, every section delivers on its heading.
+
+[22:16] STEP 5: Publish or Export Publish or Export
+
+[22:19] Congrats! You've made it. Once everything  checks out, it's time to ship it.
+
+[22:23] First — meta tags. Surfer generates a title and  meta description for you, with character counts
+
+[22:29] right there. You'll see something like  68 out of 70 characters for the title,
+
+[22:30] 155 out of 156 for the description. Your target  keyword should be near the front of the title,
+
+[22:33] and the description should tell the  searcher exactly what they'll get.
+
+[22:37] For export, you have options. If  your WordPress site is connected,
+
+[22:41] you can publish directly. Otherwise, copy  your content as formatted text or Markdown,
+
+[22:47] or download it as HTML or Markdown  for whatever CMS you're using.
+
+[22:52] One important thing after you publish:  don't expect results in week one. Google
+
+[22:59] needs to crawl, index, and evaluate your  content. Most pages reach their ranking
+
+[23:05] potential in 3 to 6 months. If you're in  a low-competition niche, it can be faster.
+
+[23:11] In a competitive one — legal, finance,  health — plan on the longer end, or longer.
+
+[23:21] So set a reminder to check back at  30, 60, and 90 days. If it's climbing,
+
+[23:29] your process worked. If it's stuck,  come back into the Content Editor,
+
+[23:34] check what's now ranking above you, and  fill the gaps. Surfer's content score will
+
+[23:39] update with fresh SERP data, so you can see  exactly where your content has fallen behind. Summary & What's Next
+
+[23:45] So that's the whole process. Pick a  keyword, run it through these five steps,
+
+[23:50] and ship something this week. Nothing  makes this real like doing it once.
+
+[23:55] Yes, AI tools allow anybody to create content,
+
+[23:59] but creating excellent content  that's useful, unique, informative,
+
+[24:04] and optimized for search? That's still a coveted  skillset — and Surfer can help you get there.
+
+[24:11] I'll drop a link to Surfer's Content Editor in  the description. Subscribe for more SEO tutorials,
+
+[24:17] and if you want to keep learning,  be sure to watch this video next.
+
+[24:21] Thanks for watching, and happy ranking.
